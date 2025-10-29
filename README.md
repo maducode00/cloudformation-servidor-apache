@@ -1,5 +1,3 @@
-# cloudformation-servidor-apache
-Template YAML para criar instância EC2 com Apache via AWS CloudFormation
 # 🚀 Projeto AWS CloudFormation – Servidor Apache EC2
 
 Este projeto utiliza **AWS CloudFormation** para automatizar a criação de uma infraestrutura básica na nuvem: uma instância EC2 com Apache configurado automaticamente. É ideal para quem está começando com **Infraestrutura como Código (IaC)** e deseja entender como provisionar recursos na AWS usando templates YAML.
